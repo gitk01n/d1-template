@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3282047b-ac9e-410d-9091-0d5dbcd21c9c",
+      "database_name": "password-manager-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
